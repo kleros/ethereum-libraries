@@ -8,6 +8,6 @@
   "license": "MIT",
   "private": false,
   "devDependencies": {
-    "truffle": "^5.0.22"
+    "truffle": "^5.1.8"
   }
 }
