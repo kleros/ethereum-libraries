@@ -1,6 +1,6 @@
 {
   "name": "ethereum-libraries",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Library contracts for Ethereum",
   "main": "index.js",
   "repository": "https://github.com/kleros/ethereum-libraries",
