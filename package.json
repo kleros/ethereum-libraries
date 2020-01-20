@@ -9,5 +9,9 @@
   "private": false,
   "devDependencies": {
     "truffle": "^5.1.8"
-  }
+  },
+  "files": [
+    "build",
+    "contracts"
+  ]
 }
