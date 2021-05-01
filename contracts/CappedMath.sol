@@ -1,13 +1,15 @@
+// SPDX-License-Identifier: MIT
+
 /**
  * @authors: [@mtsalenc, @hbarcelos]
- * @reviewers: [@clesaege*]
+ * @reviewers: [@clesaege*, @ferittuncer]
  * @auditors: []
  * @bounties: []
  * @deployments: []
  * SPDX-License-Identifier: MIT
  */
 
-pragma solidity >=0.7;
+pragma solidity ^0.7.6;
 
 
 /**
